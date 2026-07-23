@@ -2,9 +2,9 @@
 
 ## Developer Project Management System
 
-DevTrack is a web-based project management system built using **CodeIgniter 3, PHP, MySQL, and Bootstrap**.
+DevTrack is a web-based project management system built using **CodeIgniter 3, PHP, MySQL, and Bootstrap 5**.
 
-It helps developers manage projects, tasks, deadlines, and progress status through a simple and efficient dashboard-based interface.
+It helps developers manage projects, tasks, deadlines, and progress status through a simple dashboard-based interface.
 
 ---
 
@@ -57,7 +57,7 @@ It helps developers manage projects, tasks, deadlines, and progress status throu
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/Jyothi-Moger/DevTrack.git
